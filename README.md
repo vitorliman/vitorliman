@@ -1,5 +1,5 @@
 (<img width="1000" height="300" alt="image" src="<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/a511b460-756d-4b51-8537-14906790d619" />
-" />
+
 
 # Olá, Bem-Vindo!👋
 
