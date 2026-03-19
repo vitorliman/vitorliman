@@ -1,5 +1,5 @@
 [![MasterHead](<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/2f48cebf-73e1-481c-b957-7bb1210bdce2" />
-)](https://github.com/vitorliman/vitorliman/edit/main/README.md)
+)](https://github.com/vitorliman/vitorliman/blob/main/README.md)
 
 
 # Olá, Bem-Vindo!👋
